@@ -10,4 +10,4 @@ console.log("Nome: " + nome + " - Idade: " + idade + " - Aprovado: " + aprovado 
 
 // Diferença entre null e undefined
 // O 'null' é usado em casos em que uma variável é iniciada propositalmente com valor nulo, indicando estar vazia
-// O 'undefined' ocorre em casos em que uma variável é declarada e não recebeu uma atribuição ou valor  
+// O 'undefined' ocorre em casos em que uma variável é declarada e não recebeu uma atribuição ou valor
