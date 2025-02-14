@@ -14,3 +14,12 @@ if (numero === 0) {
 for (let i = 1; i < 11; i++) {
     console.log("contador", i);
 }
+
+let number = 1
+let contador = 1
+while (contador !== 5) {
+    number += contador + 1
+    contador += 1
+}
+
+console.log(number);
