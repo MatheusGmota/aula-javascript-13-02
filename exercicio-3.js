@@ -10,3 +10,7 @@ if (numero === 0) {
     console.log("Número é negativo");
     
 }
+
+for (let i = 1; i < 11; i++) {
+    console.log("contador", i);
+}
