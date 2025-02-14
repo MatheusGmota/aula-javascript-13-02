@@ -1,6 +1,6 @@
-let opcao = null // implementar: receber input do usuario
-
 do {
+    let opcao = null // implementar: receber input do usuario
+
     switch (opcao) {
         case "A":
             console.log("Opção A selecionada");
